@@ -39,7 +39,7 @@ class HomePage extends StatelessWidget {
                 onPressed: () {
                   Get.snackbar(
                     "SnackBar Title",
-                    "This will be the SncakBar Message",
+                    "This will be the SnackBar Message",
                     showProgressIndicator: true,
                     snackPosition: SnackPosition.BOTTOM,
                   );
